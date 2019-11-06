@@ -26,7 +26,7 @@ public class Application {
             for (String beanName : beanNames) {
                 System.out.println(beanName);
             }
-
+System.out.println("Let's inspect the beans provided by Spring Boot on Azure");
         };
     }
 
